@@ -335,3 +335,27 @@ Open: C:\Users\pret\Desktop\portrait\tormund.png
 0x8ACBFC@28 Write:Portrait Editor  (ImagePortraitForm) @02 Eirika 20240429135027
 InitSystem: j'ai rajouté melisandre.gba ver: FE8U length: 1032E64 FEBuilderGBA: 20240428.22
 InitSystem: Fire Emblem - the Sacred Stones # GBA.GBA ver: FE8U length: 1000000 FEBuilderGBA: 20240428.22
+InitSystem: Fire Emblem - the Sacred Stones # GBA.GBA ver: FE8U length: 1000000 FEBuilderGBA: 20240428.22
+InitSystem: Fire Emblem - the Sacred Stones # GBA.GBA ver: FE8U length: 1000000 FEBuilderGBA: 20240428.22
+0xDCC604@56 0xC01424@4 Write:Battle Animation Palette  (ImageBattleAnimePalletForm) =PALETTE 0x08DCC604  20240430130840
+0x01000000@80 Write:Battle Animation Palette  (ImageBattleAnimePalletForm) =PALETTE 0x09000000  20240430130920
+Unable to decompress lz77 palette.
+String size is not 64
+String size is not 64
+String size is not 64
+Use Palette ClipbordCode:77A9FF7FB3C4E72E72C49915579AE73B5414770B14E4FF29C4FFF C799C4FF14
+0x01000000@104 Write:Battle Animation Palette  (ImageBattleAnimePalletForm) =PALETTE 0x09000000  20240430131318
+0xDCB880@56 0xC01404@4 Write:Battle Animation Palette  (ImageBattleAnimePalletForm) =PALETTE 0x08DCB880  20240430131851
+Open: C:\Users\pret\Downloads\white walker.png
+0x01000068@100 Write:Battle Animation Palette  (ImageBattleAnimePalletForm) =PALETTE 0x09000068  20240430132328
+0x01000068@100 Write:Battle Animation Palette  (ImageBattleAnimePalletForm) =PALETTE 0x09000068  20240430132339
+0x01000068@100 Write:Battle Animation Palette  (ImageBattleAnimePalletForm) =PALETTE 0x09000068  20240430132420
+Open: C:\Users\pret\Desktop\Fire-Emblem-Winter-Is-Coming\Asset\palette\battle animation palette\giant spider.png
+0xDE42D8@56 0xC01584@4 Write:Battle Animation Palette  (ImageBattleAnimePalletForm) =PALETTE 0x08DE42D8  20240430133150
+0x010000CC@100 Write:Battle Animation Palette  (ImageBattleAnimePalletForm) =PALETTE 0x090000CC  20240430133153
+0x010000CC@100 Write:Battle Animation Palette  (ImageBattleAnimePalletForm) =PALETTE 0x090000CC  20240430133155
+Use Palette ClipbordCode:5553E95DF176053D3777A3246C6A8849BD7BD366ED4DC52C505E073963184214
+0xDF03E4@56 0xC015C4@4 Write:Battle Animation Palette  (ImageBattleAnimePalletForm) =PALETTE 0x08DF03E4  20240430133308
+0x01000130@100 Write:Battle Animation Palette  (ImageBattleAnimePalletForm) =PALETTE 0x09000130  20240430133314
+Use Palette ClipbordCode:5553E95DF176053D3777A3246C6A8849BD7BD366ED4DC52C505E073963184214
+0xDD1290@56 0xC01444@4 Write:Battle Animation Palette  (ImageBattleAnimePalletForm) =PALETTE 0x08DD1290  20240430133325
