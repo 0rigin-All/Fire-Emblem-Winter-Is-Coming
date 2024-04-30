@@ -1,0 +1,337 @@
+FEBuilderGBA is up to date. Version:20240418
+InitSystem: Fire Emblem - the Sacred Stones # GBA.GBA ver: FE8U length: 1000000 FEBuilderGBA: 20240418.00
+0x803D64@52 Write:Character Editor  (UnitForm) @01 Eirika 20240424131920
+0x0E9308@5 Write:Source  (TextForm) =TEXT:0212  20240424131934
+Your data changes in this form haven't been written to the ROM. Close anyway?
+Your data changes in this form haven't been written to the ROM. Close anyway?
+Your data changes in this form haven't been written to the ROM. Close anyway?
+InitSystem: Fire Emblem - the Sacred Stones # GBA.GBA ver: FE8U length: 1000000 FEBuilderGBA: 20240418.00
+0x0E9308@5 Write:Source  (TextForm) =TEXT:0212  20240424184947
+0x8B0890@148 0x1B76F4@308 0x8B364C@4 0x8B364C@4 Write:Map Editor  (MapEditorForm) = The Fall of Renais  20240424185112
+0x804E40@52 Write:Character Editor  (UnitForm) @54 Pablo 20240424185405
+InitSystem: Fire Emblem - the Sacred Stones # GBA.GBA ver: FE8U length: 1000000 FEBuilderGBA: 20240418.00
+Open: C:\Users\pret\Downloads\téléchargement.png
+Image size is incorrect.
+If it is a Portrait, it is 128x112.
+For class images, it must be 80x80.
+
+The size of the image you selected: Width:243 Height:207
+Open: C:\Users\pret\Downloads\téléchargement (1).png
+Image size is incorrect.
+If it is a Portrait, it is 128x112.
+For class images, it must be 80x80.
+
+The size of the image you selected: Width:79 Height:79
+Open: C:\Users\pret\Downloads\téléchargement (1).png
+Image size is incorrect.
+If it is a Portrait, it is 128x112.
+For class images, it must be 80x80.
+
+The size of the image you selected: Width:79 Height:79
+Open: C:\Users\pret\Downloads\resize_image.png
+Open: C:\Users\pret\Downloads\téléchargement (2).png
+InputFormRef IsUnknownCollision Addr: 0x0889B63C Length: 0x1004 Collision: Portrait:0x0EPAL 0x0889C640 0x0889C660
+InputFormRef IsUnknownCollision Addr: 0x0889AE54 Length: 0x20 Collision: Portrait:0x0FMOUTH 0x0889AE74 0x0889B474
+InputFormRef IsUnknownCollision Addr: 0x0889AE74 Length: 0x0600 Collision: Portrait:0x0FMAP FACE 0x0889B474 0x0889B639
+0x01000000@4100 0x89B474@456 0x01001004@32 0x01001024@1536 Write:Portrait Editor  (ImagePortraitForm)  20240424222042
+0x8ACD68@28 Write:Portrait Editor  (ImagePortraitForm) @0F Innes 20240424222042
+Open: C:\Users\pret\Downloads\téléchargement (2).png
+InputFormRef IsUnknownCollision Addr: 0x09000000 Length: 0x1004 Collision: Portrait:0x0FPAL 0x09001004 0x09001024
+InputFormRef IsUnknownCollision Addr: 0x09001004 Length: 0x20 Collision: Portrait:0x0FMOUTH 0x09001024 0x09001624
+0x01001624@4100 0x89B474@76 0x01002628@32 0x0F54@1536 Write:Portrait Editor  (ImagePortraitForm)  20240424222356
+0x8ACD68@28 Write:Portrait Editor  (ImagePortraitForm) @0F Innes 20240424222356
+Open: C:\Users\pret\Downloads\téléchargement (2).png
+InputFormRef IsUnknownCollision Addr: 0x09001624 Length: 0x1004 Collision: Portrait:0x0FPAL 0x09002628 0x09002648
+0x01002648@4100 0x89B474@76 0x01002628@32 0x0F54@1536 Write:Portrait Editor  (ImagePortraitForm)  20240424222444
+0x8ACD68@28 Write:Portrait Editor  (ImagePortraitForm) @0F Innes 20240424222444
+Open: C:\Users\pret\Downloads\téléchargement (2).png
+Open: C:\Users\pret\Downloads\d238b8273152b50ad21658bb9b38571425fec492.png
+InputFormRef IsUnknownCollision Addr: 0x09002628 Length: 0x20 Collision: Portrait:0x0FFACE 0x09002648 0x0900364C
+0x01002648@4100 0x89B474@76 0x8ACD6C@4 0x0100381C@32 0x0F54@1536 Write:Portrait Editor  (ImagePortraitForm)  20240424222739
+0x8ACD68@28 Write:Portrait Editor  (ImagePortraitForm) @0F Innes 20240424222740
+Open: C:\Users\pret\Downloads\d238b8273152b50ad21658bb9b38571425fec492.png
+InputFormRef IsUnknownCollision Addr: 0x09002648 Length: 0x1004 Collision: Portrait:0x0FMAP FACE 0x0900364C 0x0900381C
+0x0100383C@4100 0x0100364C@464 0x0100381C@32 0x0F54@1536 Write:Portrait Editor  (ImagePortraitForm)  20240424222750
+0x8ACD68@28 Write:Portrait Editor  (ImagePortraitForm) @0F Innes 20240424222750
+0x95EEB2@7 Write:Palette Editor  (UnitPaletteForm) @03 Gilliam 20240424230005
+0x95E0B2@7 Write:Palette Editor  (UnitPaletteForm) @03 Gilliam 20240424230006
+0x95E0B2@7 Write:Palette Editor  (UnitPaletteForm) @03 Gilliam 20240424230009
+Do you want to allocate new palettes?
+0x01004840@100 Write:0 (P12) NewAlloc IMAGEUNITPALETTE 20240424231518
+Address 00EF86C8 is out of range, unable to write.
+The ROM may be bricked if writing outside the range.
+
+HINT:To increase the number of data safely, use the "Expand List" button at the bottom of the list.
+0xEF86C8@16 Write:Character Palette  (ImageUnitPaletteForm) @6D 20240424231519
+Space allocated.
+Open: C:\Users\pret\Downloads\pbfm_ax1 Sheet 2.png
+0x01004840@100 Write:Character Palette  (ImageUnitPaletteForm) =PALETTE 0x09004840  20240424231532
+Address 00EF86C8 is out of range, unable to write.
+The ROM may be bricked if writing outside the range.
+
+HINT:To increase the number of data safely, use the "Expand List" button at the bottom of the list.
+0xEF86C8@16 Write:Character Palette  (ImageUnitPaletteForm) @6D cus 20240424231541
+Your data changes in this form haven't been written to the ROM. Close anyway?
+InitSystem: Fire Emblem - the Sacred Stones # GBA.GBA ver: FE8U length: 1000000 FEBuilderGBA: 20240418.00
+Your data changes in this form haven't been written to the ROM. Close anyway?
+Open: C:\Users\pret\Downloads\pbfm_ax1.bin
+Installed the patch "(AutoGenLeftOAM Reduce capacity by dynamically creating LeftToRightOAM.)". PATCH_AutoGenLeftOAM PATCH INSTALL
+0xB88570@132 0x059ACC@8 Write:Patches AutoGenLeftOAM Reduce capacity by dynamically creating LeftToRightOAM. (PatchForm) AutoGenLeftOAM Reduce capacity by dynamically creating LeftToRightOAM. 20240425133643
+Patch Installed
+There is no file.
+File name: C:\Users\pret\Downloads\pbfm_ax1 Sheet 3.png
+0xE24A30@504 0xC017BC@4 0xC017C0@4 0xE24E2C@80 0xC017C4@4 0x01000000@3696 0x01000E70@2756 0xE24C2C@396 0xC017B8@4 0xE24EF0@48 0xC017B4@4 0xE249FC@51 0xE24E7C@116 0xE24C28@4 0xE24DB8@113 Write:Battle Animations  (ImageBattleAnimeForm) =ImportBattleAnimeOnFEditorSerialize pbfm_ax1.bin 20240425133651
+0x8B0890@148 Write:Chapter Editor  (MapSettingForm) @00  The Fall of Renais 20240425134528
+InitSystem: Fire Emblem - the Sacred Stones # GBA.GBA ver: FE8U length: 1001934 FEBuilderGBA: 20240418.00
+InitSystem: Fire Emblem - the Sacred Stones # GBA.GBA ver: FE8U length: 1001934 FEBuilderGBA: 20240418.00
+Your data changes in this form haven't been written to the ROM. Close anyway?
+0x01001934@61 Write:Unit Placer  (EventUnitForm) =EevntUnit NEW  20240425180037
+0x8B3C04@8 Write:Unit Placer  (EventUnitForm)  20240425180115
+Installed the patch "(Fix_GenerateBestMovementScript Move Glitch)". PATCH_InlineFix_GenerateBestMovementScript PATCH APPLY.
+0x01A77E@1 0x01A77F@1 0x01A780@1 0x01A781@1 0x01A782@1 0x01A783@1 0x01A784@1 0x01A785@1 0x01A786@1 0x01A787@1 0x01A788@1 0x01A789@1 Write:Patches Fix_GenerateBestMovementScript Move Glitch (PatchForm) Fix_GenerateBestMovementScript Move Glitch 20240425180121
+Patch Installed
+0x8B3C64@20 Write:Unit Placer  (EventUnitForm) @Soldier(Fighter)  Lv:1 20240425180124
+0x8B3C04@8 Write:Unit Placer  (EventUnitForm)  20240425180136
+0x8B3C64@20 Write:Unit Placer  (EventUnitForm) @Soldier(Fighter)  Lv:1 20240425180136
+0x8B3BFC@8 Write:Unit Placer  (EventUnitForm)  20240425180141
+0x8B3C50@20 Write:Unit Placer  (EventUnitForm) @O'Neill(Fighter)  Lv:4 20240425180141
+0x8B3BFC@8 Write:Unit Placer  (EventUnitForm)  20240425180146
+0x8B3C50@20 Write:Unit Placer  (EventUnitForm) @O'Neill(Fighter)  Lv:4 20240425180146
+Main Map can't be 15 x 10 or less in size.
+The map is too wide.
+Current size (59, 65).
+The map is too wide.
+Current size (59, 60).
+With this width, the available height is up to 24 in width.
+The map is too wide.
+Current size (59, 60).
+With this width, the available height is up to 24 in width.
+The map is too wide.
+Current size (59, 61).
+With this width, the available height is up to 24 in width.
+The map is too wide.
+Current size (24, 64).
+The map is too wide.
+Current size (24, 63).
+With this width, the available height is up to 23 in width.
+The map is too wide.
+Current size (24, 62).
+With this width, the available height is up to 23 in width.
+Changes not saved. Discard and load new map?
+0x1AEBF0@320 0x8B3644@4 Write:Tileset Palette  (MapStyleEditorForm)  20240425182028
+InitSystem: Fire Emblem - the Sacred Stones # GBA.GBA ver: FE8U length: 1001934 FEBuilderGBA: 20240418.00
+Your data changes in this form haven't been written to the ROM. Close anyway?
+Your data changes in this form haven't been written to the ROM. Close anyway?
+Your data changes in this form haven't been written to the ROM. Close anyway?
+Your data changes in this form haven't been written to the ROM. Close anyway?
+InitSystem: Fire Emblem - the Sacred Stones # GBA.GBA ver: FE8U length: 1001934 FEBuilderGBA: 20240418.00
+Open: C:\Users\pret\Downloads\Blanc (2).png
+Image size is incorrect.
+If it is a Portrait, it is 128x112.
+For class images, it must be 80x80.
+
+The size of the image you selected: Width:25 Height:25
+Open: C:\Users\pret\Pictures\night king final.png
+0x01001934@4100 0x01002938@392 0x01002AC0@32 0x01002AE0@1536 Write:Portrait Editor  (ImagePortraitForm)  20240426223216
+0x8ACBFC@28 Write:Portrait Editor  (ImagePortraitForm) @02 Eirika 20240426223216
+0x8ACBFC@28 Write:Portrait Editor  (ImagePortraitForm) @02 Eirika 20240426223235
+Open: C:\Users\pret\Pictures\night king coutour noir.png
+InputFormRef IsUnknownCollision Addr: 0x09001934 Length: 0x1004 Collision: Portrait:0x02MAP FACE 0x09002938 0x09002AC0
+InputFormRef IsUnknownCollision Addr: 0x09002AC0 Length: 0x20 Collision: Portrait:0x02MOUTH 0x09002AE0 0x090030E0
+0x010030E0@4100 0x01002938@392 0x010040E4@32 0x01002AE0@1536 Write:Portrait Editor  (ImagePortraitForm)  20240426224203
+0x8ACBFC@28 Write:Portrait Editor  (ImagePortraitForm) @02 Eirika 20240426224203
+Open: C:\Users\pret\Pictures\night king final.png
+InputFormRef IsUnknownCollision Addr: 0x090030E0 Length: 0x1004 Collision: Portrait:0x02PAL 0x090040E4 0x09004104
+InputFormRef IsUnknownCollision Addr: 0x09002AE0 Length: 0x0600 Collision: Portrait:0x02FACE 0x090030E0 0x090040E4
+0x01004104@4100 0x01002938@392 0x010040E4@32 0x01005108@1536 Write:Portrait Editor  (ImagePortraitForm)  20240426224220
+0x8ACBFC@28 Write:Portrait Editor  (ImagePortraitForm) @02 Eirika 20240426224220
+Open: C:\Users\pret\Pictures\night king coutour noir.png
+InputFormRef IsUnknownCollision Addr: 0x09004104 Length: 0x1004 Collision: Portrait:0x02MOUTH 0x09005108 0x09005708
+InputFormRef IsUnknownCollision Addr: 0x090040E4 Length: 0x20 Collision: Portrait:0x02FACE 0x09004104 0x09005108
+0x01005708@4100 0x01002938@392 0x0100670C@32 0x01005108@1536 Write:Portrait Editor  (ImagePortraitForm)  20240426224318
+0x8ACBFC@28 Write:Portrait Editor  (ImagePortraitForm) @02 Eirika 20240426224318
+InitSystem: Fire Emblem - the Sacred Stones # GBA.GBA ver: FE8U length: 1001934 FEBuilderGBA: 20240418.00
+0x8ACBFC@28 Write:Portrait Editor  (ImagePortraitForm) @02 Eirika 20240426224321
+Open: C:\Users\pret\Pictures\fcking night king.png
+InputFormRef IsUnknownCollision Addr: 0x088A8D10 Length: 0x1004 Collision: Portrait:0x03PAL 0x088A9D14 0x088A9D34
+InputFormRef IsUnknownCollision Addr: 0x088A8550 Length: 0x20 Collision: Portrait:0x04MOUTH 0x088A8570 0x088A8B70
+InputFormRef IsUnknownCollision Addr: 0x088A8570 Length: 0x0600 Collision: Portrait:0x04MAP FACE 0x088A8B70 0x088A8D0D
+0x0100672C@4100 0x8A8B70@416 0x01007730@32 0x01007750@1536 Write:Portrait Editor  (ImagePortraitForm)  20240427001454
+0x8ACC34@28 Write:Portrait Editor  (ImagePortraitForm) @04 Seth 20240427001454
+Open: C:\Users\pret\Pictures\fcking night king.png
+InputFormRef IsUnknownCollision Addr: 0x0900672C Length: 0x1004 Collision: Portrait:0x04PAL 0x09007730 0x09007750
+InputFormRef IsUnknownCollision Addr: 0x09007730 Length: 0x20 Collision: Portrait:0x04MOUTH 0x09007750 0x09007D50
+0x01007D50@4100 0x8A8B70@320 0x01008D54@32 0x01007750@1536 Write:Portrait Editor  (ImagePortraitForm)  20240427001545
+0x8ACC34@28 Write:Portrait Editor  (ImagePortraitForm) @04 Seth 20240427001545
+Open: C:\Users\pret\Pictures\fcking night king 2.png
+InputFormRef IsUnknownCollision Addr: 0x09007D50 Length: 0x1004 Collision: Portrait:0x04PAL 0x09008D54 0x09008D74
+InputFormRef IsUnknownCollision Addr: 0x09007750 Length: 0x0600 Collision: Portrait:0x04FACE 0x09007D50 0x09008D54
+0x01008D74@4100 0x8A8B70@320 0x01008D54@32 0x01009D78@1536 Write:Portrait Editor  (ImagePortraitForm)  20240427001611
+0x8ACC34@28 Write:Portrait Editor  (ImagePortraitForm) @04 Seth 20240427001611
+Open: C:\Users\pret\Pictures\fcking night king 3.png
+InputFormRef IsUnknownCollision Addr: 0x09008D74 Length: 0x1004 Collision: Portrait:0x04MOUTH 0x09009D78 0x0900A378
+InputFormRef IsUnknownCollision Addr: 0x09008D54 Length: 0x20 Collision: Portrait:0x04FACE 0x09008D74 0x09009D78
+0x0100A378@4100 0x8A8B70@320 0x0100B37C@32 0x01009D78@1536 Write:Portrait Editor  (ImagePortraitForm)  20240427001651
+0x8ACC34@28 Write:Portrait Editor  (ImagePortraitForm) @04 Seth 20240427001651
+0x8ACC34@28 Write:Portrait Editor  (ImagePortraitForm) @04 Seth 20240427002009
+Open: C:\Users\pret\Pictures\fcking night king 3 not transparent.png
+InputFormRef IsUnknownCollision Addr: 0x0900A378 Length: 0x1004 Collision: Portrait:0x04PAL 0x0900B37C 0x0900B39C
+InputFormRef IsUnknownCollision Addr: 0x09009D78 Length: 0x0600 Collision: Portrait:0x04FACE 0x0900A378 0x0900B37C
+0x0100B39C@4100 0x8A8B70@320 0x0100B37C@32 0x0100C3A0@1536 Write:Portrait Editor  (ImagePortraitForm)  20240427002257
+0x8ACC34@28 Write:Portrait Editor  (ImagePortraitForm) @04 Seth 20240427002257
+0x8ACC34@28 Write:Portrait Editor  (ImagePortraitForm) @04 Seth 20240427002303
+Open: C:\Users\pret\Pictures\fcking night king 3 not transparent 2 inchallah.png
+InputFormRef IsUnknownCollision Addr: 0x0900B39C Length: 0x1004 Collision: Portrait:0x04MOUTH 0x0900C3A0 0x0900C9A0
+InputFormRef IsUnknownCollision Addr: 0x0900B37C Length: 0x20 Collision: Portrait:0x04FACE 0x0900B39C 0x0900C3A0
+0x0100C9A0@4100 0x8A8B70@320 0x0100D9A4@32 0x0100C3A0@1536 Write:Portrait Editor  (ImagePortraitForm)  20240427003944
+0x8ACC34@28 Write:Portrait Editor  (ImagePortraitForm) @04 Seth 20240427003944
+0x8ACC34@28 Write:Portrait Editor  (ImagePortraitForm) @04 Seth 20240427003950
+InitSystem: Fire Emblem - the Sacred Stones # GBA.GBA ver: FE8U length: 1001934 FEBuilderGBA: 20240418.00
+Cannot write to ID:0x00.
+Writing to ID: 0x00 may destroy the ROM, so it is set to deny writing in the setting options.
+Cannot write to ID:0x00.
+Writing to ID: 0x00 may destroy the ROM, so it is set to deny writing in the setting options.
+Cannot write to ID:0x00.
+Writing to ID: 0x00 may destroy the ROM, so it is set to deny writing in the setting options.
+Open: C:\Users\pret\Pictures\night king outlined.png
+0x01001934@4100 0x01002938@316 0x01002A74@32 0x01002A94@1536 Write:Portrait Editor  (ImagePortraitForm)  20240427093131
+0x8ACBFC@28 Write:Portrait Editor  (ImagePortraitForm) @02 Eirika 20240427093131
+Open: C:\Users\pret\Pictures\night king outlined transparent.png
+InputFormRef IsUnknownCollision Addr: 0x09001934 Length: 0x1004 Collision: Portrait:0x02MAP FACE 0x09002938 0x09002A72
+InputFormRef IsUnknownCollision Addr: 0x09002A74 Length: 0x20 Collision: Portrait:0x02MOUTH 0x09002A94 0x09003094
+0x01003094@4100 0x01002938@316 0x01004098@32 0x01002A94@1536 Write:Portrait Editor  (ImagePortraitForm)  20240427093204
+0x8ACBFC@28 Write:Portrait Editor  (ImagePortraitForm) @02 Eirika 20240427093204
+0x8ACBFC@28 Write:Portrait Editor  (ImagePortraitForm) @02 Eirika 20240427093224
+emulator is not set up. Please set the path of emulator within Settings -> Options.
+0x8B0890@148 Write:Chapter Editor  (MapSettingForm) @00  The Fall of Renais 20240427094039
+Your data changes in this form haven't been written to the ROM. Close anyway?
+Open: C:\Users\pret\Pictures\jhon snow.png
+InputFormRef IsUnknownCollision Addr: 0x088A8D10 Length: 0x1004 Collision: Portrait:0x03PAL 0x088A9D14 0x088A9D34
+InputFormRef IsUnknownCollision Addr: 0x088A8550 Length: 0x20 Collision: Portrait:0x04MOUTH 0x088A8570 0x088A8B70
+InputFormRef IsUnknownCollision Addr: 0x088A8570 Length: 0x0600 Collision: Portrait:0x04MAP FACE 0x088A8B70 0x088A8D0D
+0x010040B8@4100 0x8A8B70@416 0x8ACC38@4 0x01005284@32 0x010052A4@1536 Write:Portrait Editor  (ImagePortraitForm)  20240428214051
+0x8ACC34@28 Write:Portrait Editor  (ImagePortraitForm) @04 Seth 20240428214113
+0x8ACC34@28 Write:Portrait Editor  (ImagePortraitForm) @04 Seth 20240428214130
+0x8071B8@84 Write:Class Editor  (ClassForm) @02 Lord 20240428215330
+Open: C:\Users\pret\Downloads\basic attack.gif
+An unsupported extension (.GIF) was specified.
+Open: C:\Users\pret\Desktop\1. Sword\cus3_sw1.bin
+There is no file.
+File name: C:\Users\pret\Desktop\1. Sword\cus3_sw1 Sheet 16.png
+0x010058A4@5696 0xC0005C@4 0xC00060@4 0xC0F49C@92 0xC00064@4 0x01006EE4@3036 0x01007AC0@2796 0x010085AC@2996 0x01009160@3140 0x01009DA4@2780 0x0100A880@3140 0x0100B4C4@4432 0x0100C614@4248 0x0100D6AC@3440 0x0100E41C@3284 0x0100F0F0@2596 0x0100FB14@3432 0x0101087C@3520 0x0101163C@3168 0x0101229C@2728 0x01012D44@2436 0xC00058@4 0xC0F76C@48 0xC00054@4 0xC0EB30@80 0xC0F4F8@627 0xC0F010@1164 0xC0EB80@1168 Write:Battle Animations  (ImageBattleAnimeForm) =ImportBattleAnimeOnFEditorSerialize cus3_sw1.bin 20240428222525
+0x803D64@52 Write:Character Editor  (UnitForm) @01 Eirika 20240428222950
+Open: C:\Users\pret\Desktop\Map Sprite\stationary.png
+0x1B79D4@260 Write:Standing Map Anims  (ImageUnitWaitIconFrom)  20240428223210
+0x8AF888@8 Write:Standing Map Anims  (ImageUnitWaitIconFrom) @01 Lord 20240428223210
+Open: C:\Users\pret\Desktop\Map Sprite\moving.png
+0x1C3ED4@2040 0x9A2E08@4 Write:Moving Map Anims  (ImageUnitMoveIconFrom)  20240428223227
+0x9A2E08@8 Write:Moving Map Anims  (ImageUnitMoveIconFrom) @02 Lord 20240428223228
+0x9A2E08@8 Write:Moving Map Anims  (ImageUnitMoveIconFrom) @02 Lord 20240428223231
+Open: C:\Users\pret\Pictures\aria.png
+InputFormRef IsUnknownCollision Addr: 0x09003094 Length: 0x1004 Collision: Portrait:0x02PAL 0x09004098 0x090040B8
+InputFormRef IsUnknownCollision Addr: 0x09004098 Length: 0x20 Collision: Portrait:0x04FACE 0x090040B8 0x090050BC
+InputFormRef IsUnknownCollision Addr: 0x09002A94 Length: 0x0600 Collision: Portrait:0x02FACE 0x09003094 0x09004098
+0x01013ED4@4100 0x01002938@316 0x8ACC00@4 0x01015068@32 0x01015088@1536 Write:Portrait Editor  (ImagePortraitForm)  20240428225920
+0x8ACBFC@28 Write:Portrait Editor  (ImagePortraitForm) @02 Eirika 20240428225921
+0x8ACBFC@28 Write:Portrait Editor  (ImagePortraitForm) @02 Eirika 20240428225953
+Open: C:\Users\pret\Pictures\aria.png
+InputFormRef IsUnknownCollision Addr: 0x09013ED4 Length: 0x1004 Collision: Portrait:0x02MAP FACE 0x09014ED8 0x09015067
+InputFormRef IsUnknownCollision Addr: 0x09015068 Length: 0x20 Collision: Portrait:0x02MOUTH 0x09015088 0x09015688
+0x01015688@4100 0x01014ED8@399 0x8ACC00@4 0x0101681C@32 0x01015088@1536 Write:Portrait Editor  (ImagePortraitForm)  20240428230055
+0x8ACBFC@28 Write:Portrait Editor  (ImagePortraitForm) @02 Eirika 20240428230056
+0x8ACBFC@28 Write:Portrait Editor  (ImagePortraitForm) @02 Eirika 20240428230106
+0x80735C@84 Write:Class Editor  (ClassForm) @07 Paladin 20240428230642
+0x803D98@52 Write:Character Editor  (UnitForm) @02 Seth 20240428230700
+0x80735C@84 Write:Class Editor  (ClassForm) @07 Paladin 20240428230805
+0x803D98@52 Write:Character Editor  (UnitForm) @02 Seth 20240428230820
+0x803D98@52 Write:Character Editor  (UnitForm) @02 Seth 20240428230824
+0x9EEBE8@212 0x9E8684@4 Write:Event Editor (Adv)  (EventScriptForm) =:9EEBE8  20240428231315
+0x8AF028@4 Write:Battle Animations  (ImageBattleAnimeForm) @3A Sword 20240428231507
+Open: C:\Users\pret\Desktop\magic general\genm_mag.txt
+0xC9E1EC@1620 0xC0073C@4 0xC00740@4 0xC9EF24@124 0xC00744@4 0x01016924@4012 0x010178D0@4196 0xC9EFA0@992 0xC9D494@3136 0x01018934@3860 0x01019848@2128 0xC9E840@948 0xC00738@4 0xC9F388@48 0xC00734@4 0xC9D420@115 0xC9F380@6 0xC9EBF4@816 0xC9E0D4@277 Write:Battle Animations  (ImageBattleAnimeForm) =ImportBattleAnime genm_mag.txt 20240428231538
+0x8071B8@84 Write:Class Editor  (ClassForm) @02 Lord 20240428233136
+Installed the patch "(MeleeAndMagicFix 20210502)". PATCH_MeleeAndMagicFix PATCH INSTALL
+0x018A58@20 Write:Patches MeleeAndMagicFix 20210502 (PatchForm) MeleeAndMagicFix 20210502 20240428233930
+0x0101A098@8 0x8071EC@4 0x8AEFE4@8 Write:Move to extended area  (MoveToFreeSapceForm) =Move to extended area Fire Emblem - the Sacred Stones # GBA.GBA  20240428234020
+Write:Battle Animations  (ImageBattleAnimeForm) FixBattleAnimeSetting 20240428234020
+0x8071EC@4 Write:Battle Animations  (ImageBattleAnimeForm) FixBattleAnimeSetting 20240428234020
+0x0101A0A0@4 Write:Battle Animations  (ImageBattleAnimeForm) @03 Sword 20240428234030
+Open: C:\Users\pret\Desktop\6. Magic\cus3_mg1.txt
+0x0100F0F0@2492 0xC0005C@4 0xC00060@4 0x01012D44@100 0xC00064@4 0x0100A880@3060 0x0100C614@4188 0x0100B4C4@3704 0x010058A4@3584 0x0101A0A8@3888 0x0101AFD8@3816 0x0101BEC0@3940 0x01012DA8@1680 0xC00058@4 0xC0F76C@48 0xC00054@4 0xC0F49C@92 0x01013438@655 0x0100FAAC@102 0x0101229C@2726 0x01009DA4@2778 0x01007AC0@2796 0x010085AC@2995 0x01006EE4@3033 0x0100B474@77 0x01009160@3138 0x0101163C@3167 0x0100E41C@3284 0x0100FB14@3429 0x0100D6AC@3440 0x0101087C@3517 0x0100D670@57 0x0100C33C@728 0x010066A4@2112 Write:Battle Animations  (ImageBattleAnimeForm) =ImportBattleAnime cus3_mg1.txt 20240428234119
+0x80735C@84 Write:Class Editor  (ClassForm) @07 Paladin 20240428234157
+0x803D98@52 Write:Character Editor  (UnitForm) @02 Seth 20240428234218
+0x803D64@52 Write:Character Editor  (UnitForm) @01 Eirika 20240428234511
+Open: C:\Users\pret\Desktop\1. Sword\cus3_sw1.txt
+Installed the patch "(01command_hack)". PATCH_01command_hack PATCH INSTALL
+0x5138@8 0x464420@80 Write:Patches 01command_hack (PatchForm) 01command_hack 20240428234831
+Patch Installed
+0x010066A8@5696 0xC0005C@4 0xC00060@4 0x01012D44@100 0xC00064@4 0x0100A880@3036 0x010058A4@2796 0x0100B4C4@2996 0x0101AFD8@3140 0x0101A0A8@2780 0x0101BEC0@3140 0x0100FAB4@4432 0x0101CE24@4248 0x0100C614@3440 0x0101DEBC@3284 0x01007CF8@2596 0x0101EB90@3432 0x0101F8F8@3520 0x010206B8@3168 0x01021318@2728 0x0100F0F0@2436 0xC00058@4 0xC0F76C@48 0xC00054@4 0x01012DA8@1678 0x0100FA74@55 0x0100B45C@22 0x01006390@787 0x0100C078@707 0x0101BC1C@676 0x0101AB84@1108 0x0101CB04@798 0x0100D384@747 Write:Battle Animations  (ImageBattleAnimeForm) =ImportBattleAnime cus3_sw1.txt 20240428234843
+Open: C:\Users\pret\Desktop\6. Magic\cus3_mg1.bin
+There is no file.
+File name: C:\Users\pret\Desktop\6. Magic\cus3_mg1 Sheet 8.png
+0x01007CF8@2492 0xC0005C@4 0xC00060@4 0x01012D44@92 0xC00064@4 0x0101BEC0@3060 0x0101CE24@4188 0x0100FAB4@3704 0x010066A8@3584 0x01021DC0@3888 0x01022CF0@3816 0x01023BD8@3940 0x0100F0F0@1680 0xC00058@4 0xC0F76C@48 0xC00054@4 0x01012DA0@8 0x0100F780@756 0x010086B4@102 0x01021318@2726 0x0101A0A8@2778 0x010058A4@2796 0x0100B4C4@2995 0x0100A880@3033 0x0101CAB4@77 0x0101AFD8@3138 0x010206B8@3167 0x0101DEBC@3284 0x0101EB90@3429 0x0100C614@3440 0x0101F8F8@3517 0x0101DE80@57 0x0101092C@728 0x010074A8@2112 Write:Battle Animations  (ImageBattleAnimeForm) =ImportBattleAnimeOnFEditorSerialize cus3_mg1.bin 20240428234905
+Open: C:\Users\pret\Desktop\assassin des ombres\1. Sword\cus3_sw1.bin
+There is no file.
+File name: C:\Users\pret\Desktop\assassin des ombres\1. Sword\cus3_sw1 Sheet 16.png
+MoveToFreeSpace IsUnknownCollision Addr: 0x010086AC Length: 0x3640 Collision: BattleAnime:0x03 lorf_sw1 rightToLeftOAM 0x09007CF8 0x090086B3
+MoveToFreeSpace IsUnknownCollision Addr: 0x0101DE70 Length: 0x3098 Collision: BattleAnime:0x03 lorf_sw1 seat1 0x0901CE24 0x0901DE7F
+0x010086C8@5696 0xC0001C@4 0xC00020@4 0xC09B10@92 0xC00024@4 0xC07574@3036 0xC06A78@2796 0xC02000@2996 0x01009D18@3140 0xC04B24@2780 0x0100A964@3140 0x0100B5AC@4 0x0100B5C0@4432 0x0101DE94@4248 0x0101EF3C@3440 0x01024B3C@3284 0xC03824@2596 0x01025810@3432 0x01026578@3520 0x01027338@3168 0xC0560C@2728 0xC060B4@2440 0xC00018@4 0xC0B030@48 0xC00014@4 0xC0AC08@1061 0xC08D5C@1618 0xC093B0@1888 0xC09B6C@2104 0xC0A3A4@2146 0xC06A3C@59 0xC04248@4 0xC05600@11 0xC07564@14 0xC081AC@2990 0xC02C74@2991 0xC08150@91 0xC02BB4@192 Write:Battle Animations  (ImageBattleAnimeForm) =ImportBattleAnimeOnFEditorSerialize cus3_sw1.bin 20240428235127
+Open: C:\Users\pret\Desktop\assassin des ombres\1. Sword\cus3_sw1.bin
+There is no file.
+File name: C:\Users\pret\Desktop\assassin des ombres\1. Sword\cus3_sw1 Sheet 16.png
+0x01027F98@5696 0xC0005C@4 0xC00060@4 0x01012D44@92 0xC00064@4 0x0101BEC0@3036 0x010066A8@2796 0x0100FAB4@2996 0x01022CF0@3140 0x01021DC0@2780 0x01023BD8@3140 0x010295D8@4432 0x0102A728@4248 0x0101CE24@3440 0x0102B7C0@3284 0x0102C494@2596 0x0102CEB8@3432 0x0102DC20@3520 0x0102E9E0@3168 0x0102F640@2728 0x01007CF8@2436 0xC00058@4 0xC0F76C@48 0xC00054@4 0x0100F0F0@1678 0x0100867C@55 0x0101CA9C@22 0x01007194@787 0x01010668@707 0x01023934@676 0x0102289C@1108 0x0102481C@798 0x0101DB94@747 Write:Battle Animations  (ImageBattleAnimeForm) =ImportBattleAnimeOnFEditorSerialize cus3_sw1.bin 20240428235148
+Open: C:\Users\pret\Desktop\assassin des ombres\8. Unarmed\cus3_sw1.bin
+There is no file.
+File name: C:\Users\pret\Desktop\assassin des ombres\8. Unarmed\cus3_sw1 Sheet 2.png
+0x0100C720@172 0xC0007C@4 0xC00080@4 0xC0F970@92 0xC00084@4 0x0100C7D4@1920 0x0100CF58@4 0xC0F8C8@160 0xC00078@4 0xC0FA14@48 0xC00074@4 0xC0F7CC@80 0xC0F9CC@72 0xC0F968@5 0xC0F81C@171 Write:Battle Animations  (ImageBattleAnimeForm) =ImportBattleAnimeOnFEditorSerialize cus3_sw1.bin 20240428235159
+Open: C:\Users\pret\Desktop\assassin des ombres\6. Magic\cus3_mg1.bin
+There is no file.
+File name: C:\Users\pret\Desktop\assassin des ombres\6. Magic\cus3_mg1 Sheet 8.png
+0x0102C494@2492 0xC0005C@4 0xC00060@4 0x01012D44@92 0xC00064@4 0x01023BD8@3060 0x0102A728@4188 0x010295D8@3704 0x01027F98@3584 0x010300E8@3888 0x01031018@3816 0x01031F00@3940 0x01007CF8@1680 0xC00058@4 0xC0F76C@48 0xC00054@4 0x01008388@756 0x0102CE50@102 0x0102F640@2726 0x01021DC0@2778 0x010066A8@2796 0x0100FAB4@2995 0x0101BEC0@3033 0x010247CC@77 0x01022CF0@3138 0x0102E9E0@3167 0x0102B7C0@3284 0x0102CEB8@3429 0x0101CE24@3440 0x0102DC20@3517 0x0102B784@57 0x0102A450@728 0x01028D98@2112 Write:Battle Animations  (ImageBattleAnimeForm) =ImportBattleAnimeOnFEditorSerialize cus3_mg1.bin 20240428235216
+0x0101A0A0@4 Write:Battle Animations  (ImageBattleAnimeForm) @03 Dark 20240428235240
+0x0101A0A0@4 Write:Battle Animations  (ImageBattleAnimeForm) @05 Dark 20240428235248
+0x0100CF7C@6432 0x059BD8@4 0x05A600@4 0x05A694@4 0x05A82C@4 0x06F6A8@4 0x070940@4 0x070A60@4 0xC00008@6432 Write:Move to extended area  (MoveToFreeSapceForm) =Move to extended area Fire Emblem - the Sacred Stones # GBA.GBA  20240428235312
+0x0101A098@4 Write:Battle Animations  (ImageBattleAnimeForm) @03 Sword 20240428235345
+0x0101A0A0@4 Write:Battle Animations  (ImageBattleAnimeForm) @03 Dark 20240428235357
+0x803D64@52 Write:Character Editor  (UnitForm) @01 Eirika 20240428235608
+0x803D64@52 Write:Character Editor  (UnitForm) @01 Eirika 20240428235651
+0x8071B8@84 Write:Class Editor  (ClassForm) @02 Lord 20240428235708
+Your data changes in this form haven't been written to the ROM. Close anyway?
+0x8071B8@84 Write:Class Editor  (ClassForm) @02 Lord 20240428235732
+MoveToFreeSpace IsUnknownCollision Addr: 0x0100E8BC Length: 0x2028 Collision: BattleAnime 0x0900CF7C 0x0900E8DC
+MoveToFreeSpace IsUnknownCollision Addr: 0x0101A0A4 Length: 0x2028 Collision: BattleAnimeSeting:0x02 0x0901A098 0x0901A0A8
+MoveToFreeSpace IsUnknownCollision Addr: 0x0101FCA8 Length: 0x2028 Collision: BattleAnime:0x01 lorm_sp1 seat8 0x0901EF3C 0x0901FCAC
+MoveToFreeSpace IsUnknownCollision Addr: 0x0102CE48 Length: 0x2028 Collision: BattleAnime:0x03 lorf_sw1 rightToLeftOAM 0x0902C494 0x0902CE4F
+0x010058C4@6 0x02442C@4 0x07AD54@4 0x07AE00@4 0x95F5A4@6 Write:Move to extended area  (MoveToFreeSapceForm) =Move to extended area Fire Emblem - the Sacred Stones # GBA.GBA  20240428235846
+Write:Summon Ability  (SummonUnitForm) SummonRepointExtraData 20240428235847
+0x010058CA@2 Write:Summon Ability  (SummonUnitForm) @18 Ewan 20240428235859
+0x0E9308@5 Write:Source  (TextForm) =TEXT:0212  20240428235918
+Installed the patch "(MeleeAndMagicFix 20220721)". PATCH_MeleeAndMagicFix PATCH INSTALL
+0x018A58@34 Write:Patches MeleeAndMagicFix 20220721 (PatchForm) MeleeAndMagicFix 20220721 20240429000124
+0x010058CA@2 Write:Summon Ability  (SummonUnitForm) @01 Aria 20240429000528
+Open: C:\Users\pret\Pictures\melisandre.png
+Open: C:\Users\pret\Pictures\melisandre.png
+InputFormRef IsUnknownCollision Addr: 0x088A5D54 Length: 0x1004 Collision: Portrait:0x05PAL 0x088A6D58 0x088A6D78
+MoveToFreeSpace IsUnknownCollision Addr: 0x0100E8BC Length: 0x3004 Collision: BattleAnime 0x0900CF7C 0x0900E8DC
+MoveToFreeSpace IsUnknownCollision Addr: 0x010058CC Length: 0x2000 Collision: Summon 0x090058C4 0x090058CE
+InputFormRef IsUnknownCollision Addr: 0x088A5584 Length: 0x20 Collision: Portrait:0x06MOUTH 0x088A55A4 0x088A5BA4
+MoveToFreeSpace IsUnknownCollision Addr: 0x010058CC Length: 0x2020 Collision: Summon 0x090058C4 0x090058CE
+InputFormRef IsUnknownCollision Addr: 0x088A55A4 Length: 0x0600 Collision: Portrait:0x06MAP FACE 0x088A5BA4 0x088A5D51
+0x0100E8F0@4100 0x8A5BA4@432 0x010058E4@32 0x0100F804@1536 Write:Portrait Editor  (ImagePortraitForm)  20240429002748
+0x8ACC6C@28 Write:Portrait Editor  (ImagePortraitForm) @06 Franz 20240429002748
+Your data changes in this form haven't been written to the ROM. Close anyway?
+Open: C:\Users\pret\Pictures\melisandre.png
+Open: C:\Users\pret\Pictures\melisandre.png
+InputFormRef IsUnknownCollision Addr: 0x0900E8F0 Length: 0x1004 Collision: Portrait:0x06MOUTH 0x0900F804 0x0900FE04
+MoveToFreeSpace IsUnknownCollision Addr: 0x0101A0A4 Length: 0x3004 Collision: BattleAnimeSeting:0x02 0x0901A098 0x0901A0A8
+InputFormRef IsUnknownCollision Addr: 0x0900F804 Length: 0x0600 Collision: Portrait:0x06FACE 0x0900E8F0 0x0900F8F4
+0x0101A0BC@4100 0x8A5BA4@76 0x8ACC70@4 0x010058E4@32 0x0100FE14@1536 Write:Portrait Editor  (ImagePortraitForm)  20240429003153
+0x8ACC6C@28 Write:Portrait Editor  (ImagePortraitForm) @06 Franz 20240429003154
+0x8ACC6C@28 Write:Portrait Editor  (ImagePortraitForm) @06 Franz 20240429003209
+InitSystem: Fire Emblem - the Sacred Stones # GBA.GBA ver: FE8U length: 1001934 FEBuilderGBA: 20240428.22
+Open: C:\Users\pret\Desktop\portrait\tormund.png
+0x01001934@4100 0x01002938@516 0x01002B3C@32 0x01002B5C@1536 Write:Portrait Editor  (ImagePortraitForm)  20240429135022
+0x8ACBFC@28 Write:Portrait Editor  (ImagePortraitForm) @02 Eirika 20240429135022
+0x8ACBFC@28 Write:Portrait Editor  (ImagePortraitForm) @02 Eirika 20240429135027
+InitSystem: j'ai rajouté melisandre.gba ver: FE8U length: 1032E64 FEBuilderGBA: 20240428.22
+InitSystem: Fire Emblem - the Sacred Stones # GBA.GBA ver: FE8U length: 1000000 FEBuilderGBA: 20240428.22
